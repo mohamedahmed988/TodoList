@@ -1,0 +1,817 @@
+{
+  "responseCode": 200,
+  "message": "",
+  "status": true,
+  "results": {
+    "scheduledDistributionCount": 53,
+    "suspendedDistributionCount": 0,
+    "doneDistributionCount": 0,
+    "scheduledDistribution": [
+      {
+        "id": 157,
+        "distributionType": 1,
+        "beingOnSite": false,
+        "organizationName": "شركة بوان للصناعات الخشبية المحدودة",
+        "enterViolationPhotos": false,
+        "establishmentSignature": false,
+        "distributionMethod": 0,
+        "organizationDetails": [
+          {
+            "id": 18276,
+            "organizationName": "شركة بوان للصناعات الخشبية المحدودة",
+            "organizationCode": "JED-0154",
+            "latitude": "21.4009706",
+            "longitude": "39.2243981",
+            "hasLicense": "لديها ترخيص",
+            "licenseNumber": null,
+            "expiryDate": null,
+            "organizationOwnerName": "شركة بوان للصناعات الخشبية المحدودة",
+            "organizationOwnerAddress": "-",
+            "organizationOwnerEmail": "-",
+            "organizationOwnerPhone": "-",
+            "orgnaizationStatusId": 1,
+            "organizationStatusName": "تعمل",
+            "signatureData": {
+              "isSigned": true,
+              "signerAdjective": "المالك",
+              "signerName": "محمود أحمد ",
+              "note": null,
+              "identificationNumber": "10564586",
+              "identificationImage": "https://ncec-insp.com/Uploads/SignerIDImages/IdentificationImage_3378.jpg",
+              "signature": "https://ncec-insp.com/Uploads/SignerIDImages/2718.png"
+            },
+            "organizationQuestions": [
+              {
+                "id": 8,
+                "defaultName": "محضر ضبط المخالفات البيئية",
+                "isMandatory": false,
+                "actions": [
+                  {
+                    "text": "لا",
+                    "actionFlag": "No",
+                    "takeAction": true,
+                    "actionData": {
+                      "violations": [
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        },
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        },
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        },
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        },
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        },
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        },
+                        {
+                          "violationId": 1696,
+                          "violationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                          "hasDeterminants": true,
+                          "selected": true,
+                          "determinants": [
+                            {
+                              "determinantId": 114,
+                              "determinantName": "7",
+                              "determinantValue": "2000",
+                              "selected": true,
+                              "subViolationId": 0
+                            },
+                            {
+                              "determinantId": 115,
+                              "determinantName": "8",
+                              "determinantValue": "98000",
+                              "selected": true,
+                              "subViolationId": 0
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  },
+                  {
+                    "text": "نعم",
+                    "actionFlag": "Yes",
+                    "takeAction": true,
+                    "formTypes": [
+                      {
+                        "title": "التفتيش البيئي",
+                        "forms": [
+                          {
+                            "title": " البيئة المحيطة",
+                            "actionData": {
+                              "listOfControlsModel": [
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 631,
+                                  "controlType": "Devices",
+                                  "controlCondition": "Devices",
+                                  "title": " اقرب مدرسة معلومة (مسافة)",
+                                  "dataSource": [],
+                                  "value": null,
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": [
+                                    {
+                                      "DeviceId": 1,
+                                      "DeviceName": "جهاز",
+                                      "DeviceType": 0,
+                                      "DeviceTypeName": "مسافة",
+                                      "leastAcceptableReading": null,
+                                      "highestAcceptedReading": null,
+                                      "deviceReading1": "",
+                                      "deviceReading2": null,
+                                      "belowOverTakingViolation": null,
+                                      "upperOverTakingViolation": null
+                                    },
+                                    {
+                                      "DeviceId": 2,
+                                      "DeviceName": "جهاز رقم 2",
+                                      "DeviceType": 1,
+                                      "DeviceTypeName": "قراءات متعددة",
+                                      "leastAcceptableReading": null,
+                                      "highestAcceptedReading": null,
+                                      "deviceReading1": "",
+                                      "deviceReading2": null,
+                                      "belowOverTakingViolation": null,
+                                      "upperOverTakingViolation": null
+                                    }
+                                  ]
+                                },
+                                {
+                                  "isMandatory": true,
+                                  "controlId": 779,
+                                  "controlType": "Table",
+                                  "controlCondition": "Table",
+                                  "title": " المواد المستخدمة",
+                                  "dataSource": [],
+                                  "value": "",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": [
+                                    {
+                                      "formTitle": "المواد المستخدمة",
+                                      "formFields": [
+                                        {
+                                          "fieldId": 10,
+                                          "subTitle": "اسم المادة",
+                                          "value": null,
+                                          "fieldValues": [
+                                            {
+                                              "fieldValue": "منتج ١"
+                                            },
+                                            {
+                                              "fieldValue": "اة"
+                                            },
+                                            {
+                                              "fieldValue": "تر"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "fieldId": 11,
+                                          "subTitle": "حالتها الفيزيائية",
+                                          "value": null,
+                                          "fieldValues": [
+                                            {
+                                              "fieldValue": "صلبة"
+                                            },
+                                            {
+                                              "fieldValue": "غ"
+                                            },
+                                            {
+                                              "fieldValue": "ا"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "fieldId": 12,
+                                          "subTitle": "الكمية",
+                                          "value": null,
+                                          "fieldValues": [
+                                            {
+                                              "fieldValue": "٩٠"
+                                            },
+                                            {
+                                              "fieldValue": "٥"
+                                            },
+                                            {
+                                              "fieldValue": "٤"
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "fieldId": 13,
+                                          "subTitle": "درجة الخطورة",
+                                          "value": null,
+                                          "fieldValues": [
+                                            {
+                                              "fieldValue": "٢"
+                                            },
+                                            {
+                                              "fieldValue": "غت"
+                                            },
+                                            {
+                                              "fieldValue": "٤"
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": true,
+                                  "controlId": 630,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "MultiSelect",
+                                  "title": "استخدامات الأراضي المجاورة",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "صناعي"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": false,
+                                      "text": "زراعي.ساحلي"
+                                    },
+                                    {
+                                      "value": 3,
+                                      "selected": false,
+                                      "text": "سكني"
+                                    },
+                                    {
+                                      "value": 4,
+                                      "selected": false,
+                                      "text": "صحراوي"
+                                    },
+                                    {
+                                      "value": 5,
+                                      "selected": true,
+                                      "text": "أودية"
+                                    },
+                                    {
+                                      "value": 6,
+                                      "selected": false,
+                                      "text": ""
+                                    }
+                                  ],
+                                  "value": ",5",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 631,
+                                  "controlType": "Text",
+                                  "controlCondition": "Number",
+                                  "title": " اقرب مدرسة معلومة (مسافة)",
+                                  "dataSource": [],
+                                  "value": "5",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 900,
+                                  "controlType": "File",
+                                  "controlCondition": "File",
+                                  "title": "صورتي",
+                                  "dataSource": [],
+                                  "value": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/rdodl9juckfmuaqc_1639534876.jpeg",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 632,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "OneSelect",
+                                  "title": " اقرب مدرسة معلومة (اتجاه)",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "شمال"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": false,
+                                      "text": "جنوب"
+                                    },
+                                    {
+                                      "value": 3,
+                                      "selected": false,
+                                      "text": "شرق"
+                                    },
+                                    {
+                                      "value": 4,
+                                      "selected": false,
+                                      "text": "غرب"
+                                    },
+                                    {
+                                      "value": 5,
+                                      "selected": false,
+                                      "text": "شمال شرق"
+                                    },
+                                    {
+                                      "value": 6,
+                                      "selected": true,
+                                      "text": "جنوب غرب"
+                                    },
+                                    {
+                                      "value": 7,
+                                      "selected": false,
+                                      "text": "شمال غرب"
+                                    },
+                                    {
+                                      "value": 8,
+                                      "selected": false,
+                                      "text": "جنوب شرق"
+                                    }
+                                  ],
+                                  "value": "6",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 633,
+                                  "controlType": "Text",
+                                  "controlCondition": "Number",
+                                  "title": " اقرب مستشفى معلومة (مسافة)",
+                                  "dataSource": [],
+                                  "value": "8",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 634,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "OneSelect",
+                                  "title": " اقرب مستشفى معلومة ( اتجاه)",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "شمال"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": false,
+                                      "text": "جنوب"
+                                    },
+                                    {
+                                      "value": 3,
+                                      "selected": false,
+                                      "text": "شرق"
+                                    },
+                                    {
+                                      "value": 4,
+                                      "selected": true,
+                                      "text": "غرب"
+                                    },
+                                    {
+                                      "value": 5,
+                                      "selected": false,
+                                      "text": "شمال شرق"
+                                    },
+                                    {
+                                      "value": 6,
+                                      "selected": false,
+                                      "text": "جنوب غرب"
+                                    },
+                                    {
+                                      "value": 7,
+                                      "selected": false,
+                                      "text": "شمال غرب"
+                                    },
+                                    {
+                                      "value": 8,
+                                      "selected": false,
+                                      "text": "جنوب شرق"
+                                    }
+                                  ],
+                                  "value": "4",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 635,
+                                  "controlType": "Text",
+                                  "controlCondition": "Number",
+                                  "title": " اقرب تجمع سكني (مسافة )",
+                                  "dataSource": [],
+                                  "value": "55553",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 636,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "OneSelect",
+                                  "title": " اقرب تجمع سكني (اتجاه)",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "شمال"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": false,
+                                      "text": "جنوب"
+                                    },
+                                    {
+                                      "value": 3,
+                                      "selected": false,
+                                      "text": "شرق"
+                                    },
+                                    {
+                                      "value": 4,
+                                      "selected": false,
+                                      "text": "غرب"
+                                    },
+                                    {
+                                      "value": 5,
+                                      "selected": true,
+                                      "text": "شمال شرق"
+                                    },
+                                    {
+                                      "value": 6,
+                                      "selected": false,
+                                      "text": "جنوب غرب"
+                                    },
+                                    {
+                                      "value": 7,
+                                      "selected": false,
+                                      "text": "شمال غرب"
+                                    },
+                                    {
+                                      "value": 8,
+                                      "selected": false,
+                                      "text": "جنوب شرق"
+                                    }
+                                  ],
+                                  "value": "5",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": true,
+                                  "controlId": 637,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "OneSelect",
+                                  "title": "المحميات",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "يوجد"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": true,
+                                      "text": "لايوجد"
+                                    }
+                                  ],
+                                  "value": "2",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": true,
+                                  "controlId": 638,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "OneSelect",
+                                  "title": " المسطحات المائية",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "يوجد"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": true,
+                                      "text": "لايوجد"
+                                    }
+                                  ],
+                                  "value": "2",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 639,
+                                  "controlType": "FixedData",
+                                  "controlCondition": "OneSelect",
+                                  "title": " مصادر التلوث بالمنطقة",
+                                  "dataSource": [
+                                    {
+                                      "value": 1,
+                                      "selected": false,
+                                      "text": "لايوجد"
+                                    },
+                                    {
+                                      "value": 2,
+                                      "selected": false,
+                                      "text": "انبعاثات"
+                                    },
+                                    {
+                                      "value": 3,
+                                      "selected": true,
+                                      "text": "صرف"
+                                    },
+                                    {
+                                      "value": 4,
+                                      "selected": false,
+                                      "text": "ضوضاء"
+                                    },
+                                    {
+                                      "value": 5,
+                                      "selected": false,
+                                      "text": "مخلفات صلبة"
+                                    },
+                                    {
+                                      "value": 6,
+                                      "selected": false,
+                                      "text": "مخلفات خطرة"
+                                    }
+                                  ],
+                                  "value": "3",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 743,
+                                  "controlType": "File",
+                                  "controlCondition": "File",
+                                  "title": "صوره",
+                                  "dataSource": [],
+                                  "value": "https://ncec-insp.com/Uploads/FormControlsFiles/\\Uploads\\FormControlsFiles\\743_4769.jpg",
+                                  "InnerSubViolations":null,"innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                }
+                              ,
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 782,
+                                  "controlType": "Violation",
+                                  "controlCondition": "OneSelect",
+                                  "title": "تجربة مخالفات",
+                                  "dataSource": [],
+                                  "value": null,
+                                  "innerSubViolations":[
+                                    {
+                                      "subViolationId": 1696,
+                                      "subViolationName": "تقديم معلومات أو بيانات أو نتائج غير صحيحة في أي دراسة أو خطة أو تقرير يقدم الى المركز",
+                                      "hasDeterminants": true,
+                                      "selected": true,
+                                      "determinants": [
+                                        {
+                                          "determinantId": 114,
+                                          "determinantName": "7",
+                                          "determinantValue": "2000",
+                                          "selected": true,
+                                          "subViolationId": 1696
+                                        },
+                                        {
+                                          "determinantId": 115,
+                                          "determinantName": "8",
+                                          "determinantValue": "98000",
+                                          "selected": true,
+                                          "subViolationId": 1696
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "innerViolations": null,
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                },
+                                {
+                                  "isMandatory": false,
+                                  "controlId": 782,
+                                  "controlType": "Question",
+                                  "controlCondition": "Question",
+                                  "title": "هل النشأه مغلقة",
+                                  "dataSource": [],
+                                  "value": null,
+                                  "innerSubViolations":null,
+                                  "innerViolations":  [
+                                    {
+                                      "violationId": 1698,
+                                      "violationName": "البدء في الاعمال الإنشائية للنشاط دون تصريح بيئي للإنشاء ساري المفعول ",
+                                      "hasDeterminants": true,
+                                      "selected": true,
+                                      "determinants": [
+                                        {
+                                          "determinantId": 36,
+                                          "determinantName": "ألحد الادني",
+                                          "determinantValue": "10000",
+                                          "selected": true
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "violationId": 1698,
+                                      "violationName": "البدء في الاعمال الإنشائية للنشاط دون تصريح بيئي للإنشاء ساري المفعول ",
+                                      "hasDeterminants": true,
+                                      "selected": false,
+                                      "determinants": [
+                                        {
+                                          "determinantId": 36,
+                                          "determinantName": "ألحد الادني",
+                                          "determinantValue": "10000",
+                                          "selected": false
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "violationId": 1706,
+                                      "violationName": "إعاقة المفتشين من أداء عملهم أو منعهم من دخول موقع النشاط بدون مبرر مقبول",
+                                      "hasDeterminants": true,
+                                      "selected": false,
+                                      "determinants": [
+                                        {
+                                          "determinantId": 26,
+                                          "determinantName": "حسب اللائحة",
+                                          "determinantValue": "20000",
+                                          "selected": false
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "violationId": 1744,
+                                      "violationName": "تركيب وتشغيل شبكات لرصد ومراقبة جودة الهواء المحيط من دون ترخيص ",
+                                      "hasDeterminants": true,
+                                      "selected": false,
+                                      "determinants": [
+                                        {
+                                          "determinantId": 74,
+                                          "determinantName": "ألحد الادني",
+                                          "determinantValue": "50000",
+                                          "selected": false
+                                        }
+                                      ]
+                                    }
+                                  ],
+                                  "innerTables": null,
+                                  "innerDevices": null
+                                }
+                              ]
+                            }
+                          }
+
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
